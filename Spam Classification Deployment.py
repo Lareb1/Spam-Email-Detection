@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as sttttt
 import pickle
 from PIL import Image
 st.set_page_config(page_title="Spam E-Mail Classification")
