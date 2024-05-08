@@ -5,7 +5,7 @@ st.set_page_config(page_title="Spam E-Mail Classification")
 
 # Use color and font themes
 st.markdown("""
-<style>>>
+<style>
 
 div[class*="stTextInput"] label p {
   font-size: 26px;
